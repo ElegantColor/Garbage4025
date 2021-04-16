@@ -1,0 +1,13 @@
+Categories
+	1. Indoor - 26 photos
+		a. Extreme
+		b. Dim
+	2. Outdoor  - 82 photos
+		a. Cloudy
+		b. Extreme
+		c. Landscape
+	3. HDR
+		a. Indoor - 36 photos
+		b. Outdoor - 136 photos
+			i. Daybreak
+Landscape
