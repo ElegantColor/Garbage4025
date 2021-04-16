@@ -1,3 +1,9 @@
+Datasets checked (https://sites.google.com/site/vonikakis/datasets)
+	1. Busting image enhancement and tone-mapping algorithms - https://sites.google.com/site/vonikakis/datasets/challenging-dataset-for-enhancement
+	2. TM-DIED: The Most Difficult Image Enhancement Dataset - https://www.flickr.com/gp/73847677@N02/GRn3G6
+	3. DCIM - https://paperswithcode.com/dataset/dicm
+LOL - https://paperswithcode.com/dataset/lol
+
 Categories
 	1. Indoor - 26 photos
 		a. Extreme
